@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scikit-image
+torch
+torchvision
+neo4j
+gdspy
+smt
+scipy
+Pillow
